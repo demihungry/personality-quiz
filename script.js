@@ -65,6 +65,18 @@ function winter(){
     q4a2.disabled = true;
   }
   
+  if (question == 5){
+    q1a1.disabled = true;
+    q1a2.disabled = true;
+    q2a1.disabled = true;
+    q2a2.disabled = true;
+    q3a1.disabled = true;
+    q3a2.disabled = true;
+    q4a1.disabled = true;
+    q4a2.disabled = true;
+    q5a1.disabled = true;
+    q5a2.disabled = true;
+  }
 }
 
 function summer(){
